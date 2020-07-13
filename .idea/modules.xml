@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlticeAndroidBasicCertificateLogic/AlticeAndroidBasicCertificateLogic.iml" filepath="$PROJECT_DIR$/AlticeAndroidBasicCertificateLogic/AlticeAndroidBasicCertificateLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlticeAndroidBasicCertificateTests/AlticeAndroidBasicCertificateTests.iml" filepath="$PROJECT_DIR$/AlticeAndroidBasicCertificateTests/AlticeAndroidBasicCertificateTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlticeAndroidBasicCertificateUI/AlticeAndroidBasicCertificateUI.iml" filepath="$PROJECT_DIR$/AlticeAndroidBasicCertificateUI/AlticeAndroidBasicCertificateUI.iml" />
+    </modules>
+  </component>
+</project>
